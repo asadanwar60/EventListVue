@@ -1,4 +1,6 @@
-# netflix-clone
+# Event Display
+
+#About Project an event display SPA using using vuex and router 
 
 ## Project setup
 ```
